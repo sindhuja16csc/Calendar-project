@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-06-13",
+    "time": "10:00 AM",
+    "duration": "1h"
+  },
+  {
+    "title": "Doctor Appointment",
+    "date": "2025-06-15",
+    "time": "03:00 PM",
+    "duration": "30m"
+  },
+  {
+    "title": "Project Review",
+    "date": "2025-06-13",
+    "time": "02:00 PM",
+    "duration": "2h"
+  },
+  {
+    "title": "Jyothsna's Birthday",
+    "date": "2024-07-04",
+    "type": "birthday"
+  },
+  {
+    "title": "Mounika's Birthday",
+    "date": "2020-06-28",
+    "type": "birthday"
+  },
+  {
+    "title": "Ramesh Birthday",
+    "date": "2020-06-15",
+    "type": "birthday"
+  }
+] 
